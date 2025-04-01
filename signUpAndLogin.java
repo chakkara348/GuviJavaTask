@@ -63,7 +63,7 @@ public class signUpAndLogin {
 
 		openURL("https://www.guvi.in/");
 		signUpAndLogin objSignUp = new signUpAndLogin();
-		objSignUp.signUp("Chakku", "chakkari348@gmail.com", "chakku348", "6757345678");
+		objSignUp.signUp("Chakku", "chakkarithi348@gmail.com", "chakku348", "6757345678");
 		login("chakkaravarthi348@gmail.com","Chakku@348");
 		closeBrowser();
 
